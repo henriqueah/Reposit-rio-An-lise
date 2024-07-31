@@ -1,3 +1,0 @@
-## ARQUIVO
-
-conteúdo
