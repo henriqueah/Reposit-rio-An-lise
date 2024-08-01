@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## Repositório Local
+## Repositório Relatório Método AHP 
 
-Descrição inserida no repositório local depois do clone. 
+Relatório de comparação entre Tidyverse do R e Pandas do Python para atividades de Data Wrangling no âmbo dos dados financeiros da Defesa Militar. 
 
